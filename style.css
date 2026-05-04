@@ -10,11 +10,12 @@ body {
 .contenedor {
   width: 85%;
   margin: 40px auto;
-  background-color: rgba(255, 255, 255, 0.90);
+  background-color: rgba(255, 255, 255, 0.9);
   border-radius: 15px;
   overflow: hidden;
 }
 
+/* HEADER */
 .header {
   display: flex;
   align-items: center;
@@ -30,6 +31,7 @@ body {
   margin-right: 20px;
 }
 
+/* BODY */
 .body {
   padding: 40px;
   text-align: center;
@@ -45,6 +47,7 @@ body {
   border-radius: 8px;
 }
 
+/* FOOTER */
 .footer {
   background-color: #222;
   color: white;
